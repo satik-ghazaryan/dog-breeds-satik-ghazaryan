@@ -1,7 +1,7 @@
 # 🐶 Dog Breeds Viewer
 
 This project is an interactive frontend web application that displays dog breed information using The Dog API, a free public API.
-
+[https://satik-ghazaryan.github.io/dog-breeds-satik-ghazaryan/](https://satik-ghazaryan.github.io/dog-breeds-satik-ghazaryan/)
 ---
 
 ## 📋 Description
